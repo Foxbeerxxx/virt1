@@ -14,15 +14,18 @@
 ![2](https://github.com/Foxbeerxxx/virt1/blob/main/img/2.png)`
 
 3. `Подключаюсь к ВМ`
+
 ![3](https://github.com/Foxbeerxxx/virt1/blob/main/img/3.png)`
 
 4. `Проверяю установленную версию Докер`
+
 ```
 docker --version 
 ```
 ![4](https://github.com/Foxbeerxxx/virt1/blob/main/img/4.png)`
 
 5. `Смотрю какие сервисы установленны в образе и проверяю еще 1.`
+
 ![5](https://github.com/Foxbeerxxx/virt1/blob/main/img/5.png)`
 ![6](https://github.com/Foxbeerxxx/virt1/blob/main/img/6.png)`
 
