@@ -30,7 +30,9 @@ docker --version
 
 ![6](https://github.com/Foxbeerxxx/virt1/blob/main/img/6.png)`
 
+6. `Анализируем расходы после остановки ВМ`
 
+![7](https://github.com/Foxbeerxxx/virt1/blob/main/img/7.png)`
 
 ---
 
